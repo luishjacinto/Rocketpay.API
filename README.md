@@ -1,4 +1,5 @@
-# Rocketpay
+# Rocketpay.API
+API desenvolvida durante a Next Level Week, um evento proporcionado pela RocketSeat dos dias 22/02 até 28/02 de 2021. Rocketpay API é uma API de deposito, saque e transações entre contas.
 
 To start your Phoenix server:
 
